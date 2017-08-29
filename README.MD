@@ -1,3 +1,8 @@
+# 效果图
+
+![效果图](preview.png)
+
+
 # 安装
 
 1. 准备好git，curl，ctags环境
